@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T02:32:45.068Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="NdP1YqqTJUX4s-VR7Phc" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T03:58:51.239Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qfAPOSzdknVK-VoVwcf0" version="14.1.2" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
-    <mxGraphModel dx="1159" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1159" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,8 +40,8 @@
         <mxCell id="70666756c84bb93c-15" value="Finance" style="shape=mxgraph.signs.travel.euro;html=1;fillColor=#ffffff;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="637" y="189" width="45" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="miM18Jzy9dltxLlWv7qS-12" value="&lt;h1&gt;多比web可视化组态集成&lt;/h1&gt;&lt;p&gt;Developed by J2EE, java,javascript, html5.&lt;/p&gt;&lt;p&gt;Easy Integration.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="290" width="165" height="170" as="geometry" />
+        <mxCell id="miM18Jzy9dltxLlWv7qS-12" value="&lt;h1&gt;多比web可视化组态集成&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="462" y="322" width="165" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
